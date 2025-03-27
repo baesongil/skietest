@@ -1,7 +1,7 @@
 uuid,name,geometry,pedestrian_entrance_uuid,vehicle_entrance_uuid
-busterminal_1,µ¿¼­¿ïÁ¾ÇÕÅÍ¹Ì³Î,POINT (127.09358976 37.53391787),pedestrian_4314788898,localroad_436286601
-busterminal_2,»óºÀÅÍ¹Ì³Î,POINT (127.09191037 37.5958952),pedestrian_595780360,localroad_595780360
-busterminal_3,ÇÑ±¹µµ½É°øÇ×ÅÍ¹Ì³Î,POINT (127.05391947 37.67873288),pedestrian_5987947879,localroad_595780347
-busterminal_4,¼­¿ï³²ºÎÅÍ¹Ì³Î,POINT (127.01561482 37.48411493),pedestrian_7996340645,localroad_3827257120
-busterminal_5,¼­¿ï°í¼Ó¹ö½ºÅÍ¹Ì³Î(È£³²¼±),POINT (127.00325639 37.50417831),pedestrian_9787414078,localroad_4738140914
-busterminal_6,¼­¿ï°í¼Ó¹ö½ºÅÍ¹Ì³Î,POINT (127.00702353 37.50549848),pedestrian_3616332631,localroad_8487538011
+busterminal_1,ë™ì„œìš¸ì¢…í•©í„°ë¯¸ë„,POINT (127.09358976 37.53391787),pedestrian_4314788898,localroad_436286601
+busterminal_2,ìƒë´‰í„°ë¯¸ë„,POINT (127.09191037 37.5958952),pedestrian_595780360,localroad_595780360
+busterminal_3,í•œêµ­ë„ì‹¬ê³µí•­í„°ë¯¸ë„,POINT (127.05391947 37.67873288),pedestrian_5987947879,localroad_595780347
+busterminal_4,ì„œìš¸ë‚¨ë¶€í„°ë¯¸ë„,POINT (127.01561482 37.48411493),pedestrian_7996340645,localroad_3827257120
+busterminal_5,ì„œìš¸ê³ ì†ë²„ìŠ¤í„°ë¯¸ë„(í˜¸ë‚¨ì„ ),POINT (127.00325639 37.50417831),pedestrian_9787414078,localroad_4738140914
+busterminal_6,ì„œìš¸ê³ ì†ë²„ìŠ¤í„°ë¯¸ë„,POINT (127.00702353 37.50549848),pedestrian_3616332631,localroad_8487538011
